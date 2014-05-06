@@ -2,10 +2,8 @@
 using namespace std;
 int main()
 {
-	while (1)
-	{
-		cout << "#TeamChitoge" << endl;
-	}
+	cout << "chitoge a best" << endl;
 
+	system("pause");
 	return 0;
 }
