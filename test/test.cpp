@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout << "ｃｈｉｔｏｇｅ　ａ　ｂｅｓｔ" << endl;
+	cout << "muh anime" << endl;
 
 	system("pause");
 	return 0;
